@@ -1,0 +1,13 @@
+.trueFalseQuestion {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.trueFalseOption {
+  display: block;
+  margin: 10px 0;
+}
+
+.trueFalseOption input {
+  margin-right: 10px;
+}
